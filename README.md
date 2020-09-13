@@ -1,2 +1,5 @@
 # Python-Basic
-[Python] python basic
+[Python] python basic  
+- Pandas
+- Numpy
+- Matplotlib
